@@ -1,0 +1,5 @@
+Canvas 20 10
+OutputFile output.txt
+EmptySymbol " "
+Figure Rectangle 14 6 3 3 # 
+Figure Rectangle 4 2 2 2 #
